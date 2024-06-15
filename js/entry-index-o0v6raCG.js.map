@@ -1,0 +1,1 @@
+{"version":3,"file":"entry-index-o0v6raCG.js","sources":["../../src/pages/home/index.js"],"sourcesContent":["import \"./index.scss\";\r\n\r\nconsole.log(\"index\");"],"names":[],"mappings":"mDAEA,QAAQ,IAAI,OAAO"}

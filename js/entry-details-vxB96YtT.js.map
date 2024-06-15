@@ -1,0 +1,1 @@
+{"version":3,"file":"entry-details-vxB96YtT.js","sources":["../../src/pages/details/details.js"],"sourcesContent":["import \"./details.scss\";\r\n\r\nconsole.log(\"details\");"],"names":[],"mappings":"mDAEA,QAAQ,IAAI,SAAS"}
